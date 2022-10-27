@@ -1,3 +1,3 @@
 # 1OunceProject
 
-Recipe application (Front end)
+Recipe application (Front end/ React Native)
